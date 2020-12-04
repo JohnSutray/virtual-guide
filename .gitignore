@@ -72,6 +72,7 @@ dist
 .vs/
 .gradle/
 .consulo/
+node_modules/
 
 # Exceptions
 !*.dll

@@ -1,0 +1,12 @@
+﻿{
+  "name": "virtual-guide",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy-api": "npm run api-subtree && npm run api-push && npm run remove-subtree",
+
+    "api-subtree": "git subtree split --prefix Build -b gh-pages",
+    "api-push": "git push -f heroku gh-pages:master --no-verify",
+
+    "remove-subtree": "git branch -D gh-pages"
+  }
+}

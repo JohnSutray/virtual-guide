@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 5285de1faae828d4897dc7053c18b84a
+timeCreated: 1531060826
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Ceiling
+    100004: Door
+    100006: Door.001
+    100008: Door_Group
+    100010: Door_Group.001
+    100012: DoorFrame
+    100014: DoorFrame.001
+    100016: Floor
+    100018: //RootNode
+    100020: Handle_Back
+    100022: Handle_Front
+    100024: Lamp
+    100026: Room
+    100028: Window
+    100030: Window_Group
+    400000: Camera
+    400002: Ceiling
+    400004: Door
+    400006: Door.001
+    400008: Door_Group
+    400010: Door_Group.001
+    400012: DoorFrame
+    400014: DoorFrame.001
+    400016: Floor
+    400018: //RootNode
+    400020: Handle_Back
+    400022: Handle_Front
+    400024: Lamp
+    400026: Room
+    400028: Window
+    400030: Window_Group
+    2000000: Camera
+    2300000: Ceiling
+    2300002: Door
+    2300004: Door.001
+    2300006: DoorFrame
+    2300008: DoorFrame.001
+    2300010: Floor
+    2300012: Handle_Back
+    2300014: Handle_Front
+    2300016: Room
+    2300018: Window
+    3300000: Ceiling
+    3300002: Door
+    3300004: Door.001
+    3300006: DoorFrame
+    3300008: DoorFrame.001
+    3300010: Floor
+    3300012: Handle_Back
+    3300014: Handle_Front
+    3300016: Room
+    3300018: Window
+    4300000: DoorFrame.001
+    4300002: Door.001
+    4300004: DoorFrame
+    4300006: Door
+    4300008: Handle_Back
+    4300010: Handle_Front
+    4300012: Window
+    4300014: Room
+    4300016: Ceiling
+    4300018: Floor
+    6400000: Ceiling
+    6400002: Door
+    6400004: Door.001
+    6400006: DoorFrame
+    6400008: DoorFrame.001
+    6400010: Floor
+    6400012: Handle_Back
+    6400014: Handle_Front
+    6400016: Room
+    6400018: Window
+    10800000: Lamp
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
